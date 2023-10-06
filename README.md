@@ -6,6 +6,8 @@ I have worked in various technologies but I am most experienced in Node.js, Post
 
 I have an active passion for satellite and geospatial data given my background in the same. Check out my talk [here](https://talks.osgeo.org/foss4g-2022/talk/YJPU9S/) on building a spatial temporal database.
 
+Contact: json.singh.dev@gmail.com
+
 ### Full Set of technologies
 
 - Backend - Node.js, Python, Go
