@@ -4,7 +4,7 @@ While working with a computer was my choice, I didn't imagine it anything like w
 
 I have worked in various technologies but I am most experienced in Node.js, Postgres, AWS Cloud, Python, and React.js which is enough to build any application you can think of. There's always room for learning so I am still learning, tinkering, and hacking away at new stuff.
 
-Checkout my website for more up to date information: [https://jsonsingh.com](https://jsonsinhg.com)
+Checkout my website for more up to date information: [https://jsonsingh.com](https://jsonsingh.com)
 
 ### Full Set of technologies
 
