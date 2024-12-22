@@ -1,12 +1,9 @@
-## Hi, I am Jashanpreet Singh aka "json singh"
+## Hola
 
-While working with a computer was my choice, I didn't imagine it anything like what I do now. I thought it would be cool like playing a game but it turns out it's much cooler than that sometimes, seeing those bits and pieces coming together to create something "new", feels like magic.
+I was always fascinated with machines but I didn't imagine it anything like what I do now. 
+I thought it would be cool like playing a game but it turns out it's much cooler than that. Seeing those bits and pieces coming together to create something "new", feels like magic. 
+I am a magician, a performer, refining my art with each new line I write and this my stage. 
+
+Welcome to my show!!
 
 Checkout my website for more up to date information: [https://jsonsingh.com](https://jsonsingh.com)
-
-### Full Set of technologies
-
-- Backend - Node.js, Python, Go
-- Frontend - React.js
-- Cloud - AWS, Linode
-- Other - Docker, Kubernetes, Ansible, terraform
