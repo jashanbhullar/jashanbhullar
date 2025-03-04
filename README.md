@@ -6,4 +6,4 @@ I thought it would be cool like playing a game but it turns out it's much cooler
 I am a magician, a performer, refining my art with each new line I write and this is my stage. 
 Welcome to my show!!
 
-Checkout my website for more up to date information: [https://jsonsingh.com](https://jsonsingh.com
+Checkout my website for more up to date information: [jsonsingh.com](https://jsonsingh.com)
