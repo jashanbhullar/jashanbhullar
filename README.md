@@ -16,6 +16,6 @@ Running: [London "Geo" Meetup](https://lgm.jsonsingh.com)
 
 <img width="1200" height="1200" alt="LGM Generic" src="https://github.com/user-attachments/assets/d3a30b0b-5f1d-4a50-a2e1-a2011a438e68" />
 
+Attend the [FOSS4G:UK 2026](https://uk.osgeo.org/foss4guk2026/) on 12-13 October 2026
 
-
-
+<img width="1080" height="1080" alt="FOSS4GUK 2026 Logo (many sizes)" src="https://github.com/user-attachments/assets/eb7538ac-66cd-4ca2-acc9-d8cd974abe68" />
